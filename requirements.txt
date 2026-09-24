@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+networkx
+scikit-learn
+statsmodels
+pyarrow
+joblib
+tigramite
+lingam
+hydra-core
+omegaconf
+jupyterlab

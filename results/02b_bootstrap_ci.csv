@@ -1,0 +1,26 @@
+method,mean AUROC,low,high
+Elevation (meta),0.805,0.794,0.814
+RP,0.731,0.712,0.749
+PCMCI (rank transform),0.724,0.701,0.745
+Granger (pairwise),0.714,0.692,0.736
+Granger (conditional),0.706,0.682,0.73
+CC,0.699,0.681,0.718
+MI (lagged),0.681,0.662,0.7
+PCMCI (|partial corr|),0.681,0.658,0.705
+Spearman (lagged),0.677,0.657,0.696
+PCMCI+,0.673,0.65,0.694
+RP+N,0.669,0.645,0.694
+"PCMCI (1-p, paper)",0.66,0.637,0.683
+Pearson,0.64,0.621,0.659
+Lasso-VAR,0.631,0.607,0.653
+Transfer entropy,0.628,0.603,0.654
+DirectLiNGAM (diffs),0.624,0.599,0.648
+DYNOTEARS,0.623,0.6,0.647
+Nonlinear Granger (GBM),0.618,0.592,0.644
+CCM,0.606,0.587,0.626
+LPCMCI,0.606,0.583,0.627
+VARLiNGAM (+ instantaneous),0.597,0.573,0.621
+VAR,0.592,0.568,0.616
+"VARLiNGAM (lagged, paper)",0.582,0.558,0.606
+NOTEARS (diffs),0.489,0.46,0.518
+Random (fixed),0.485,0.46,0.511

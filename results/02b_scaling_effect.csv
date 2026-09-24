@@ -1,0 +1,17 @@
+method,metric,raw,minmax,z
+VAR |coef|,AUROC,0.77,0.626,0.592
+VAR |coef|,skeleton AUROC,0.562,0.641,0.647
+VAR |coef|,orientation,0.841,0.576,0.52
+VAR |coef|,agreement with RP,0.871,0.494,0.448
+VAR signed,AUROC,0.77,0.632,0.596
+VAR signed,skeleton AUROC,0.56,0.647,0.651
+VAR signed,orientation,0.845,0.586,0.535
+VAR signed,agreement with RP,0.859,0.508,0.459
+VARLiNGAM,AUROC,0.76,0.615,0.582
+VARLiNGAM,skeleton AUROC,0.567,0.65,0.651
+VARLiNGAM,orientation,0.807,0.552,0.497
+VARLiNGAM,agreement with RP,0.845,0.473,0.43
+Granger F (control),AUROC,0.706,0.706,0.706
+Granger F (control),skeleton AUROC,0.668,0.668,0.668
+Granger F (control),orientation,0.73,0.73,0.73
+Granger F (control),agreement with RP,0.642,0.642,0.642
