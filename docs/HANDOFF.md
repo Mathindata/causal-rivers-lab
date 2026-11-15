@@ -1,7 +1,7 @@
-# CausalRivers project: handoff (end of session 1)
+# CausalRivers project:
 
 ## Goal
-Causal discovery on CausalRivers (Stein et al., ICLR 2025): classical baselines, then new first-principles methods, then an arXiv paper and hands-on causal inference course notes. Work runs in Colab/Kaggle, pushed to GitHub (Mathindata).
+Causal discovery on CausalRivers (Stein et al., ICLR 2025)
 
 ## Files
 - `01_eda_causal_lens.ipynb`: done, executed. EDA from a causal perspective.
